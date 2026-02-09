@@ -4,7 +4,7 @@
 #include "Enemy.h"
 #include "GameScene.h"
 
-const char kWindowTitle[] = "LC1B_16_コバヤシ_リョウガ_PG";
+const char kWindowTitle[] = "LC1B_16_コバヤシ_リョウガ_PG_Evaluation_task2";
 
 // Windowsアプリでのエントリーポイント(main関数)
 int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ int) {
